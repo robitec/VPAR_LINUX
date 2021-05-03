@@ -1,2 +1,2 @@
-# ddlpr
+# VPAR Linux
 ZIP Package Installer
