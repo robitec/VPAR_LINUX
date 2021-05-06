@@ -7,6 +7,10 @@ The purpose of this repository is only to have public the zip dll.
 ### Download DLL
 wget `https://github.com/robitec/VPAR_LINUX/releases/download/{RELEASE_PATH}.zip`
 
+### Install DLL
+
+Follow the release Instructions README.
+
 # LICENSE
 All rights are reserved to Neural Labs
 
